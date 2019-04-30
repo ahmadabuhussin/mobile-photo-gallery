@@ -40,5 +40,14 @@
   "script": {
     "lint": "eslint --cache --format codeframe --ext .js .",
     "test": "jest"
+      "ex": "2",
+    "students": [
+        {"id": "206332454", "fullName": "ahmed abu hussin", "email": "ahm.j.1995@hotmail.com"},
+        {"id": "320579493", "fullName": "MarkIoshpa", "email": "mark.ioshpa@gmail.com"}
+    ],
+    "os": "Windows",
+    "device": "Android",
+    "deliveryDate": "04/30/2019",
+    "delay": false
   }
 }
